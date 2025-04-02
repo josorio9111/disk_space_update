@@ -1,6 +1,6 @@
 name: disk_space_update
 description: "A small Flutter plugin to display free and total disk space. It is an update to the disk_space plugin."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/josorio9111/disk_space_update
 
 environment:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

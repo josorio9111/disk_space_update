@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/josorio/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/josorio/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/josorio/Desktop/proyectos/disk_space_update/example/android/app/.cxx/Debug/2r6c1248/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/josorio/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/josorio/Desktop/proyectos/disk_space_update/example/android/app/.cxx/Debug/2r6c1248/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

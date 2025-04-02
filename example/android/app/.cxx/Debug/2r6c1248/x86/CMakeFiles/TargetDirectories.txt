@@ -1,0 +1,2 @@
+/Users/josorio/Desktop/proyectos/disk_space_update/example/android/app/.cxx/Debug/2r6c1248/x86/CMakeFiles/edit_cache.dir
+/Users/josorio/Desktop/proyectos/disk_space_update/example/android/app/.cxx/Debug/2r6c1248/x86/CMakeFiles/rebuild_cache.dir
